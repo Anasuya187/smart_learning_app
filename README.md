@@ -1,16 +1,46 @@
-# smart_learning_app
+# Smart Learning App
 
-A new Flutter project.
+A Flutter application integrated with Firebase that demonstrates Google Authentication and basic app setup.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+- Firebase integration using FlutterFire
+- Google Sign-In authentication
+- Cross-platform support (Web & Android)
+- Clean and simple UI
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
+## 🌐 Live Demo
+👉 https://smart-learning-app-43982.web.app
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## 🛠 Tech Stack
+
+- Flutter
+- Dart
+- Firebase Authentication
+- Google Sign-In
+- FlutterFire CLI
+
+---
+
+## 📂 Project Structure
+
+smart_learning_app/
+├── lib/
+├── web/
+├── android/
+├── pubspec.yaml
+├── README.md
+└── .gitignore
+
+
+---
+
+## 🧪 How to Run Locally
+```bash
+flutter pub get
+flutter run -d chrome
+
