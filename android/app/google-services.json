@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "986826652356",
+    "project_id": "smart-learning-app-43982",
+    "storage_bucket": "smart-learning-app-43982.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986826652356:android:128be790c555e12f1de791",
+        "android_client_info": {
+          "package_name": "com.example.smart_learning_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "986826652356-uun90hedso7dg6ic3g1pa6puv4aug4nn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIAY-z6e3uTUB9_9KITjPZQpOznOALqJo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "986826652356-uun90hedso7dg6ic3g1pa6puv4aug4nn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
